@@ -1,5 +1,7 @@
 # RASPBERRY PI 3 - WIFI STATION+AP
 
+### It will not work while an ethernet is connected.
+
 Running the Raspberry Pi 3 as a Wifi client (station) and access point (ap) from the single built-in wifi.
 
 Its been written about before, but this way is better.  The access point device is created before networking
